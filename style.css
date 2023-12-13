@@ -1,0 +1,70 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: cursive;
+    color: brown ;
+}
+h2{
+    font-family: 'Trebuchet MS';
+    color: chocolate;
+}
+.skills{
+    color: orange;
+}
+#azurelistitem{
+    color: darkgreen;
+}
+button{
+    background-color: cornflowerblue;
+    color: antiquewhite;
+    border: solid black;
+    border-radius: 30px;
+}
+button:hover{
+    background-color: green;
+}
+button:active{
+   background-color: black;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkgoldenrod;
+    font-size: 2rem;
+}
+.list{
+    font-weight: bold;
+    font-style: italic;
+}
+.list:hover{
+    color: burlywood;
+}
+
+.intro{
+    margin: 10px;
+    border: 5px; 
+    /*background-image: url(images/Capture.PNG) ;
+    background-repeat: no-repeat;
+    background-position:center;
+    width: 150vw;
+    height: 30vh;*/
+    
+}
+form{
+    background-color: coral;
+
+}
+input{
+    font-size: small;
+    font-weight: bold;
+    font-family:'Arial Narrow Bold';
+    
+}
+
+.buttonForm{
+    color:darkorchid;
+    width: 150px;
+    box-sizing: border-box;
+
+}
